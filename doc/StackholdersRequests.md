@@ -493,7 +493,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 =======
 **Діаграма RG-1**
 
-![]
+![](https://i.imgur.com/GIetig9.jpg)
  
 **Діаграма LG**
 
@@ -501,7 +501,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
  
 **Діаграма PRJ-V**
 
-![](https://www.plantuml.com/plantuml/img/BKvB2i8m4Dtd58_klK0NKj03YABxD1rBT9gKcIdQspi1T-_BUuDQ5DiM3Z5P5LnfpceaDDsL156ngOHKYqbbt7RtbgRghi4T78uDeiU9StehkaUc3ovINvHCEuoRMIsXPJpQ6ZtEMLUEhh1FeJuHcK5V9xdCMF_TC52P_5Zy0G00)
+![](https://i.imgur.com/Rkk1Kxc.jpg)
 
 **Діаграма N-PRJ**
 
@@ -519,7 +519,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма ADD-CON**
 
-![](https://www.plantuml.com/plantuml/img/TL71RSCm3Fnx2iB_BD17a20B53KwW2BHjWfBT4KgXRVlEGvGfqNr8KNT7O_KISqLgsbgd3SfrBxn4DMuSA1tvTAIKoeyF9xFrKO4r71ll6GhCb6tW97MgYww8Wz792_qMbYLbTfp27G7nsk5ZBQ4Q98Rm0v745Qit680sD440oGz62b5G_VFocfAVP54l_pjsrr64RqhU9T33CvuuzZ8coZADFzZwjaJHjvvsi6en65SpI1TTUSY7unT_B0wpa4fYyK-UcTHChchL7JtdcTpsVFVwNQRw4Rvskpnaq7I2W7LlaxJqb92wWPkS4xeY2_y1W00)
+![](https://i.imgur.com/1YGuWXD.jpg)
 
 **Діаграма RM-CON**
 
@@ -533,7 +533,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма DEL-PRJ**
 
-![](https://www.plantuml.com/plantuml/img/RP4nZi8m44Nxd6AKdWkaGAoM6Y6n9St46HEl70_CZ0jklqvY5f3eh2__f__idHgAvIasw8m5lZcPX3xFPrIG6dzb6zS46pTVuGYdknfDSwODRhRQmGzUeTrJ92Eu2l-ICoWeuzGskjbY1oTA0mZTCgc1BqGV4aOOvaxW1Ep1nl_o2tR5G7iacJ1HidXVMxIWfOC3M_31uSB1dhEzOHz8NP1r95QjCieznSz9mcMqOayHZGOmBgk2VcOyHBtm17iqx56fwdxOfDavKlNvtVfOqRloGEKt_W00)
+![](https://i.imgur.com/1smaTFG.jpg)
 
 
 ### Функціональність:
