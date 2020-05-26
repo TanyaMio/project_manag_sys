@@ -523,7 +523,7 @@ FDD був розроблений, щоб слідкувати за п&#39;ят�
 
 **Діаграма RM-CON**
 
-![](https://www.plantuml.com/plantuml/img/TP7DRi8m48JlVefLxhm01mJY1QhcqFFYdzYLuqMxQn1lNpkWabJgoQFHpEYpVHH5rZfdWrQ9uKn5ELrgroZ0B_jKDJuTDBP7ACFu4FLpzyJWxY1x-60luWM6Jp_JpODzZya0xLGgHdO7x56w9TUo23c90eLD6fH0euShqxUt-je_Ho9PEXQBImxLGs2Qb-Woq-pM-PTY3S5x67rnVQsGff0iQg82UA6gmBsB-Js_ePkOwhKphncVcrz9esEyoxe1dAQe0g79FvNs5cEa-o-ks_IaMjjk4shEZm7c9d7onXmRUFkp7m00)
+![](https://ibb.co/dML44BV)
 
 
 
